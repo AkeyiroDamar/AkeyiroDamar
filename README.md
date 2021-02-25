@@ -1,16 +1,13 @@
-### Hi there 👋
+# Que tal, mi nombre es Alejandro Mora
 
-<!--
-**AkeyiroDamar/AkeyiroDamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Acerca de mi:
 
-Here are some ideas to get you started:
+- Estudiante de la carrera de Sistemas Computacionales. 💯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Me gusta estar enterado acerca de nuevas tecnologias. 🖥️
+
+- Jugador de videojuegos (Bronce en todo). 🎮
+
+- Amante de la musica. (Metallica > Megadeth) 🤘
+
+Simpre intendo dar lo mejor de mi.

@@ -2,12 +2,14 @@
 
 ### Acerca de mi:
 
-- Estudiante de la carrera de Sistemas Computacionales. 💯
+- 🏫 Estudiante del Instituto Tecnologico de Tijuana. 
 
-- Me gusta estar enterado acerca de nuevas tecnologias. 🖥️
+- 💯 Cursando la carrera de Sistemas Computacionales.
 
-- Jugador de videojuegos. 🎮
+- 🖥️ Me gusta estar enterado acerca de nuevas tecnologias. 
 
-- Amante de la musica. 🤘
+- 🎮 Jugador de videojuegos. 
 
-Simpre intendo dar lo mejor de mi.
+- 🤘 Amante de la musica.
+
+Simpre intento dar lo mejor de mi.

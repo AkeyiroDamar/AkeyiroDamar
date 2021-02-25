@@ -6,8 +6,8 @@
 
 - Me gusta estar enterado acerca de nuevas tecnologias. 🖥️
 
-- Jugador de videojuegos (Bronce en todo). 🎮
+- Jugador de videojuegos. 🎮
 
-- Amante de la musica. (Metallica > Megadeth) 🤘
+- Amante de la musica. 🤘
 
 Simpre intendo dar lo mejor de mi.
